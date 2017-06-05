@@ -44,7 +44,7 @@
     "babel-cli": "^6.24.1",
     "babel-plugin-add-module-exports": "^0.2.1",
     "babel-preset-airbnb": "^2.2.3",
-    "chai": "^3.5.0",
+    "chai": "^4.0.2",
     "cheerio": "^0.22.0",
     "eslint": "^3.19.0",
     "eslint-config-airbnb-base": "^11.2.0",
